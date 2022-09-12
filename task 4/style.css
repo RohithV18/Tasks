@@ -1,0 +1,48 @@
+{
+ padding:0px;
+ margin:0px;
+}
+.parent{
+    height: 100vh;
+    width:0 vw;
+    border: 5px solid black;
+    display: flex;
+    
+}
+.rohith {
+   height: 80%;
+   width: 90%;
+   border: 5px solid black;
+   margin: 50px;
+   padding: 10px;
+   
+}
+.one {
+    height: 70%;
+    width: 80%;
+    border: 5px solid black;
+    margin:60px ;
+    padding: 20px;
+    
+}
+.two {
+    height:50%;
+    width:70%;
+    border: 5px solid black;
+    margin:40px;
+    padding:55px;
+}
+.three {
+    height:30%;
+    width:70% ;
+    border: 5px solid black;
+    margin:15px ;
+    padding:50px;
+}
+.four {
+    height:15% ;
+    width:80% ;
+    border: 5px solid black;
+    margin:0px;
+    padding: 25px;
+}
